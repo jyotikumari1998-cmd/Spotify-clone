@@ -1,2 +1,2 @@
 # Spotify-clone
-Music-website for learning
+Music-website for learning.
